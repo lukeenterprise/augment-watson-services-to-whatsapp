@@ -4,4 +4,4 @@ scikit-learn==0.20.3
 numpy==1.17.4
 pandas==0.25.3
 ibm-watson-machine-learning==1.0.10
-pillow==7.1.2
+pillow==8.2.0
